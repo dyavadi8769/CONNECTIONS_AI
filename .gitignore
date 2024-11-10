@@ -68,6 +68,9 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+venv/
+glove.6B.50d.txt
+
 # Sphinx documentation
 docs/_build/
 
