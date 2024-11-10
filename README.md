@@ -4,7 +4,7 @@
 The Connections game from The New York Times (NYT) has become a popular brain teaser, challenging players to associate words based on categories. With advancements in artificial intelligence (AI), the question arises: can we teach AI to recognize categorical patterns? The objective is to develop a bot capable of effectively categorizing a set of words into four distinct groups based on their connections.
 
 ## Task
-As a participant we would like you to “solve” this game Connections AI to the best of your abilities. You will be given the board of 16 words arranged randomly, and you will have to select the best 4 words possible that match a group for four distinct groups in order to ensure your success. We will provide you with the API for the game and some starter code. We encourage you to be creative with different models and possible logic, exploring new ways of “solving” the game.
+- As a participant we would like you to “solve” this game Connections AI to the best of your abilities. You will be given the board of 16 words arranged randomly, and you will have to select the best 4 words possible that match a group for four distinct groups in order to ensure your success. We will provide you with the API for the game and some starter code. We encourage you to be creative with different models and possible logic, exploring new ways of “solving” the game.
 
 ## Rules of the Game
 
